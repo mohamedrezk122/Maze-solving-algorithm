@@ -3,8 +3,6 @@ from PIL import Image
 from maze import Maze
 from track import Scene
 
-import os
-
 image = Image.open("./images_in/tiny.png")
 maze = Maze(image)
 
@@ -49,4 +47,4 @@ def path():
            x_old = x
 
     return new
-#Scene(maze , path())
+Scene(maze , path())
