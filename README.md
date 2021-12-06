@@ -7,3 +7,15 @@ In essence, this project is a maze solving algorithm that computes a path (for s
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59314933/144671264-79ead6cf-cacf-4dde-934c-b0e9a2c2ec56.gif">
 </p>
+
+## 15*15 Maze
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59314933/144920618-c57fa3bd-116e-4000-9530-4a722f611c8f.gif">
+</p>
+
+## 41*41 Maze
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59314933/144919753-6649ea3b-2da9-478e-beb3-2fff370a4617.gif">
+</p>
+
+
